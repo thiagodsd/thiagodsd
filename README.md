@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Thiago, a Physics Grad turned Data Scientist with a passion for UI Design, currently pursuing a Master's in Computer Science. I work as a Data Scientist at Itaú Unibanco. Since 2018, I've been involved in projects spanning the entire credit cycle, from application to collection. Currently, I'm working behind the scenes in banking, applying artificial intelligence to operational infrastructure.
+
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat) ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Kedro Badge](https://img.shields.io/badge/Kedro-FFC900?logo=kedro&logoColor=000&style=flat) ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat) ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat) ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat) ![Inkscape Badge](https://img.shields.io/badge/Inkscape-000?logo=inkscape&logoColor=fff&style=flat) 
 
 <!--
 **thiagodsd/thiagodsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
