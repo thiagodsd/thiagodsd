@@ -11,6 +11,6 @@ Academically, my journey began with undergraduate research projects in computati
 
 <br/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Da%20ponte%20pra%20cá%20antes%20de%20tudo%20é%20uma%20escola,%20minha%20meta%20é%20dez,%20nove%20e%20meio%20nem%20rola&author=Racionais%20Mc's)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Da%20ponte%20pra%20cá%20antes%20de%20tudo%20é%20uma%20escola,%20minha%20meta%20é%20dez,%20nove%20e%20meio%20nem%20rola&author=Racionais%20Mc's)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 </div>
