@@ -1,7 +1,4 @@
-### Hi there 👋
-As a Data Scientist who has always worked in banking, my career is currently defined by my experiences in credit, engaging in projects that span the entire credit cycle from application to collection, and more recently, by my role working behind the scenes applying artificial intelligence to enhance operational infrastructure.
-
-Academically, my journey began with undergraduate research projects in computational physics, specifically statistical mechanics applied to biological systems. Currently, I'm pursuing a Master's in Computer Science, focused on Machine Learning methods in Remote Sensing, with applications to Natural Disaster analysis.
+`todo`
 
 <br/>
 
